@@ -1,3 +1,10 @@
+![Alt ou título da imagem](https://raw.githubusercontent.com/cleisoncarlos/tailwind-spotify/master/Screenshot%202023-07-18%20at%2018-00-54%20Screenshot.png)
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
